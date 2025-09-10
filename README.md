@@ -32,7 +32,7 @@ Revenue by transaction mode (Swipe, Chip, Online)
 
 Power BI Desktop – for dashboard creation and visualization
 
-Excel/SQL/CSV datasets – source data for analysis
+SQL/Excel/CSV datasets – source data for analysis
 
 DAX & Power Query – for measures, calculations, and data transformation
 
